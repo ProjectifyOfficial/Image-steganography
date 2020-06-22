@@ -229,7 +229,8 @@ Feel free to <a href = "https://github.com/aagarwal1012/Image-Steganography-Libr
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
 > - [PayPal](https://www.paypal.me/aagarwal1012/)
-
+# CREDIT TO CREATOR
+*AYUSH AGARWAL[https://github.com/aagarwal1012/Image-Steganography-Library-Android]
 
 # License
 **Image Steganography** is licensed under `MIT license`.
